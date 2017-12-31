@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.16.1",
+    "mysql": "^2.14.1",
+    "node-mysql": "^0.4.2",
+    "sql": "^0.78.0"
+  }
+}

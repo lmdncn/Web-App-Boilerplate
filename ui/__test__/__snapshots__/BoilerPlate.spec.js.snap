@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Boilerplate --- Shallow Render REACT COMPONENTS capturing Snapshot of BoilerPlate 1`] = `
+<div>
+  Test
+</div>
+`;
