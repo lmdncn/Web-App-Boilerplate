@@ -8,6 +8,7 @@ module.exports = {
     context: resolve(__dirname, 'src'),
     resolve: {
         alias: {
+            // Sets Alias names for routes to use in import statements
             'Utils': resolve(__dirname, 'src/utils/'),
             'Components': resolve(__dirname, 'src/components/'),
             'StyleGuide': resolve(__dirname, 'src/components/StyleGuide/'),
